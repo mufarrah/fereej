@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/mufarrah/fereej">
-    <img src="assets/fereej_logo.pngogo.png" alt="Logo" width="80" height="80">
+    <img src="assets/fereej_logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Fereej App</h3>
