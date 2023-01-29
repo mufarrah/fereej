@@ -16,7 +16,9 @@
   </p>
 </p>
 
+<div style="text-align:center;">
 ![Downloads](https://img.shields.io/github/downloads/mufarrah/fereej/total) ![Contributors](https://img.shields.io/github/contributors/mufarrah/fereej?color=dark-green) ![Forks](https://img.shields.io/github/forks/mufarrah/fereej?style=social) ![Stargazers](https://img.shields.io/github/stars/mufarrah/fereej?style=social) ![Issues](https://img.shields.io/github/issues/mufarrah/fereej)
+</div>
 
 ## Table Of Contents
 
