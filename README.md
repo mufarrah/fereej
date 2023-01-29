@@ -7,7 +7,7 @@
   <h3 align="center">Fereej App</h3>
 
   <p align="center">
-    An E-commerce app for productive families to sell theri products
+    An E-commerce app for productive families to sell their products
     <br/>
     <br/>
     <a href="https://github.com/mufarrah/fereej/issues">Report Bug</a>
